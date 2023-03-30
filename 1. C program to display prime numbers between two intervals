@@ -3,7 +3,7 @@
 int main()
 {
    int low, high, i, flag;
-   printf("enter two numbers(intervals): ");
+   printf(" krishna enter two numbers(intervals): ");
    scanf("%d %d", &low, &high);
    printf("Prime numbers between %d and %d are: ", low, high);
 
